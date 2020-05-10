@@ -1,0 +1,65 @@
+.ultag{
+  list-style-type:None;
+  text-align: center;
+  padding: 0 10px 0;
+  font-size: 1rem;
+}
+.card-name{
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: orange;
+}
+.cards-h2{
+  text-align: center;
+  color: orange;
+}
+.result-h2{
+  text-align: center;
+  color: orange;
+  margin-top: 8%;
+  margin-bottom: 30%;
+}
+.home{
+  text-align: center;
+  color: orange;
+  margin-top: 10%;
+  margin-bottom: 20px;
+}
+
+.btn{
+  margin-bottom: 2%;
+  margin-left: 37%;
+}
+.cards{
+  padding: 1.5% 0 0.3%;
+}
+.btnhome{
+  margin-left: 43%;
+  margin-bottom: 25%;
+}
+
+form{
+  margin-left: 5%;
+}
+p{
+  font-weight: bold;
+}
+
+h1{
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  form{
+    margin-left: 30%;
+  }
+  .btn{
+    margin-top: 0;
+    margin-left: 12%;
+    margin-bottom: 100%;
+  }
+}
