@@ -14,15 +14,19 @@ body{
 
 .main-box{
     margin: 2%;
+    height: 1000px;
     border-radius: 8px;
     text-align: center;
     background-color: rgb(36, 150, 250);
+    transition: 0.3s ease;
 }
 
 .main-box-items{
     margin: 1%;
     border-radius: 8px;
     background-color: rgba(255, 255, 0, 0.557);
+    transition: 0.4s ease;
+    
 }
 
 /* cards */
@@ -42,6 +46,7 @@ body{
 }
 .active{
     background-color: goldenrod;
+    transition: all 0.4s ease;
 }
 /* cards end */
 
